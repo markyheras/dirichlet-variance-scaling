@@ -17,7 +17,7 @@ We perform a high-precision computation of the Dirichlet divisor error term
 for approximately 6.5 million values of x evenly distributed (in logarithmic scale) from x = 10³ up to x = 10¹⁵.
 
 A log–log regression of the variance Var(Δ(x)) ∼ x^{2H} yields the Hurst exponent  
-**H ≈ 0.251267 ± 0.0000133** (95 % confidence interval from bootstrap).
+**H ≈ 0.251267 ± 0.000133** (95 % confidence interval from bootstrap).
 
 This value is remarkably close to 1/4, supporting (but not proving nothing about) the conjecture that the true asymptotic is Δ(x) = O(x^{1/4 + ε}) for every ε > 0.
 
